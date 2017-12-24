@@ -23,3 +23,5 @@ Mục tiêu thành thạo lệnh
 Chắc chắn
 
 Chuẩn
+
+Tin cậy 
