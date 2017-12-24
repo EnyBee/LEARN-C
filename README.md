@@ -17,3 +17,5 @@ Tôi học lệnh
 Lặp đi lặp lại
 
 Lại lấy xuống
+
+Mục tiêu thành thạo lệnh
