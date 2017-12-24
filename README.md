@@ -12,4 +12,5 @@ Chuyên ngành Điều khiển và tự động hóa
 
 Hiện em đang học cách sử dụng các câu lệnh git
 
+Tôi học lệnh
 
