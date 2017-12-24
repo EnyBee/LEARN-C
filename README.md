@@ -25,3 +25,5 @@ Chắc chắn
 Chuẩn
 
 Tin cậy 
+
+Tỉ lệ thành công cao
