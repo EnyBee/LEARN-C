@@ -27,3 +27,5 @@ Chuẩn
 Tin cậy 
 
 Tỉ lệ thành công cao
+
+Chủ nhật
